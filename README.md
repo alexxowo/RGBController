@@ -1,9 +1,9 @@
 # ❤️💚💙 RGBController ❤️💚💙
 
 ## Table of Contents
-1. [Operation For Beginners](#opbeginners)
-2. [C# APP](#csapp)
-3. [Arduino Sketch](#arduinoSketch)
+1. [Operation For Beginners](#OPERATION-FOR-BEGINNERS )
+2. [C# APP](#c-app)
+3. [Arduino Sketch](#arduino-sketch)
 
 This project works for any type of RGB LED, from simple LED strips to 5mm rgb LEDs.
 The regulator circuit can be found in the following <a href="#noUpdated">link</a> and detailed information:
