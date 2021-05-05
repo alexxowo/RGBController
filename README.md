@@ -1,3 +1,5 @@
+# [DEPRECATED] THIS VERSION IS HARD TO MAINTAIN!!
+
 # ❤️💚💙 RGBController ❤️💚💙
 
 ## Table of Contents
